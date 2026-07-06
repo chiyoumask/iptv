@@ -1,5 +1,5 @@
 #EXTM3U
-# 更新時間: 2026-07-05 19:10:06
+# 更新時間: 2026-07-06 02:42:57
 
 #EXTINF:-1 tvg-name="TVBS新聞" group-title="台湾",TVBS新聞
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1782053820/ei/XKc3asD-KZWcsfIP-K_BmQc/ip/2a09:bac5:624a:281e::3ff:1a/id/m_dhMSvUCIc.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr8---sn-ip.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/ARmQxEV0RZ75-_SPtSbkXb9G2uzj3M_4f6seZNuFB9C2OtOjgM5fnITYMpxa4X8Pgen4VMDGHabVVjGZ/spc/SQ-umjorE8bCijPuOCxEk02XfBqZtLYKA8G9_1TA1sR_heD1RaLbBj1knaZoZPl1/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2303750/met/1782032222,/mh/V0/mip/2a09:bac5:624a:1173::1bd:e9/mm/44/mn/sn-ip/ms/lva/mv/m/mvi/8/pl/35/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51565681,51987687/mt/1782031948/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AHEqNM4wRQIhALabsFLcb36gWt_N8OxZAYrH7tJdPBFKnx9rjzdmqLlvAiBq1lK1LNEAwNYoDmXXz-hiC-MnDSyRFbhs61gIkDJLIQ%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgKD2RoNbOsLsyc3idaCCgUYc9-HOUUCf8TXze6B-uv1ACIQDmo53Q5ZzvvOLUN6UAOCWLq_OhSq2ot7Ld6wI7G3Lqyw%3D%3D/playlist/index.m3u8
