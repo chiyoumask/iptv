@@ -21,6 +21,7 @@ channels = [
     ("寰宇台灣", "https://www.youtube.com/watch?v=w87VGpgd90U"),
     ("三立財經", "https://www.youtube.com/watch?v=pF507BLtbqU"),
     ("東森財經", "https://www.youtube.com/watch?v=1I2iq41Akmo"),
+    ("非凡財經", "https://www.youtube.com/watch?v=eA6Aczd3FZM"),
 ]
 
 output_file = "IPTV.m3u"
