@@ -1,5 +1,5 @@
 #EXTM3U
-# 更新時間: 2026-07-14 13:22:49
+# 更新時間: 2026-07-14 19:11:42
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV1.png" group-title="央视",CCTV-1
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?AuthInfo=xxx&userid=
