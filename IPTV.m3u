@@ -1,5 +1,5 @@
 #EXTM3U
-# 更新時間: 2026-07-18 07:41:33
+# 更新時間: 2026-07-18 13:03:22
 
 #EXTINF:-1 tvg-id="1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/CCTV1.png" group-title="央视",CCTV-1
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000231?AuthInfo=xxx&userid=
@@ -158,6 +158,7 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000374?AuthInfo=xx
 #EXTINF:-1 tvg-id="科教频道" tvg-name="科教频道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海外语.png" group-title="重庆",科教频道
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
+
 #EXTINF:-1 tvg-name="TVBS新聞" group-title="台湾",TVBS新聞
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1784390261/ei/FU5bauGtKrOcsfIP44ixiQ0/ip/2a09:bac5:624e:1846::26b:a0/id/m_dhMSvUCIc.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-iv.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhP5noYbc1hUpRQyqin9V0Cx2q6COS13JHXLDq3ACmOzGvZp_dVSCTXCshuI4D15VmtPCoQe-5q3/spc/SQ-umqelHDB-ppTaGxnocmXBa9PrFrU4zzBJmszghOpv8RLP3g/vprv/1/reg/0/playlist_type/DVR/initcwndbps/2788750/met/1784368663,/mh/V0/mm/44/mn/sn-iv/ms/lva/mv/m/mvi/1/pl/42/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565116,51992868/mt/1784368368/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIhAJLFz0CJ8-Ch-DCvkQ0dsS14ug4DgsvX0jpe-N5H1dB4AiBhq_KwF-IQhZ3XBO1cRVmYiSfBjictBuQQSk-0oqO8BA%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRAIgDspWt9lWw0Np7ryZfP2a81QHUCU0hScVCrWZagdtTbkCIE6PxI5e1L5PF5Y8vtoZpp5_JKtrcgvLBr25UpVXFqwr/playlist/index.m3u8
 #EXTINF:-1 tvg-name="東森新聞" group-title="台湾",東森新聞
