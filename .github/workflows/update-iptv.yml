@@ -1,19 +1,11 @@
 name: 更新 IPTV 直播源
 
-# 触发条件：每 6 小时定时 + 支持手动触发
+# ⚠️ 定时解析已停用：GitHub Actions runner 的 IP 被 YouTube 风控，
+# 云端始终解析不到台湾源。主流程改为本地手动运行 tv.py 后推送。
+# 本 workflow 仅保留 workflow_dispatch，作为日后云端连通性的可选自检，
+# 不再做任何 commit/push，避免空跑覆盖本地手动推送的有效结果。
 on:
-  schedule:
-    # UTC 时间 0/6/12/18 点 = 北京时间 8/14/20/2 点
-    - cron: '0 */6 * * *'
-  workflow_dispatch:  # 允许在 GitHub 页面手动点击运行，便于首次验证
-
-# 让默认 GITHUB_TOKEN 有权推送回仓库
-permissions:
-  contents: write
-
-concurrency:
-  group: update-iptv
-  cancel-in-progress: false  # 不取消正在运行的任务，避免解析到一半被打断
+  workflow_dispatch:
 
 jobs:
   update:
@@ -30,18 +22,5 @@ jobs:
       - name: 安装依赖（yt-dlp）
         run: pip install -r requirements.txt
 
-      - name: 运行解析脚本
+      - name: 本地解析验证（不提交）
         run: python tv.py
-
-      - name: 提交并推送更新的 m3u
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add IPTV.m3u
-          # 若有改动才提交；无改动则跳过，避免空提交报错
-          if git diff --cached --quiet; then
-            echo "IPTV.m3u 无变化，跳过提交。"
-          else
-            git commit -m "自动更新 IPTV 直播源 $(date -u '+%Y-%m-%d %H:%M:%S UTC')"
-            git push
-          fi
