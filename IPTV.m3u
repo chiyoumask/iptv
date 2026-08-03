@@ -158,47 +158,6 @@ rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000374?AuthInfo=xx
 #EXTINF:-1 tvg-id="科教频道" tvg-name="科教频道" tvg-logo="https://raw.githubusercontent.com/drangjchen/IPTV/main/Logo/上海外语.png" group-title="重庆",科教频道
 rtsp://123.147.113.84:554/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
 rtsp://123.147.112.17:8089/04000001/01000000004000000000000000000373?AuthInfo=xxx&userid=
-#EXTINF:-1 tvg-name="Elta体育1台" group-title="体育",Elta体育1台
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyaldxODZDc2xwQ2Y3NkVzYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTE5NmJjYzAwJmNuPTFlMGQ1ODRjJmNwPTRmYTZkMWRlJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="Elta体育2台" group-title="体育",Elta体育2台
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyaldxODZDc2xwQ2Y3NkVKYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTE5NmJjYzAwJmNuPTFlMGQ1ODRjJmNwPTJjMWJhNDNmJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="Elta体育3台" group-title="体育",Elta体育3台
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyaldxODZDc2xwQ2Y3NkVuYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTE5NmJjYzAwJmNuPTFlMGQ1ODRjJmNwPWM4NWU4Zjg1JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="Elta体育4台" group-title="体育",Elta体育4台
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyaldxODZDc2xwQ2Y3NjVkQlpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD0xOTZiY2MwMCZjbj0xZTBkNTg0YyZjcD00MjI0YzEzNiZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="博斯运动1台" group-title="体育",博斯运动1台
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyaldKdXBXZWxwQ2Y3NkVzYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTE5NmJjYzAwJmNuPTFlMGQ1ODRjJmNwPWJhZWZjZTM2JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="博斯运动2台" group-title="体育",博斯运动2台
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyaldKdXBXZWxwQ2Y3NkVKYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTE5NmJjYzAwJmNuPTFlMGQ1ODRjJmNwPTYxZmEyOGIyJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="博斯无限台" group-title="体育",博斯无限台
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyaldKdXBXZWFWUjJnVlVlQnpVU2I2NTY0ak50OFFaZTh2Wm5CalJCbDZQRnxjZD0xOTZiY2MwMCZjbj0xZTBkNTg0YyZjcD0zZjUyNzYwYyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="纬来体育台" group-title="体育",纬来体育台
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyak56Z3pDcXVWQ3M0ejVuT1ZOSkJqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTE5NmJjYzAwJmNuPTFlMGQ1ODRjJmNwPTkwODRmMjQ4JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="DAZN1台" group-title="体育",DAZN1台
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyaldTeXhSaDJaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9MTk2YmNjMDAmY249MWUwZDU4NGMmY3A9MmIyMzk2NTUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="DAZN2台" group-title="体育",DAZN2台
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyaldTeXhSaDdaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9MTk2YmNjMDAmY249MWUwZDU4NGMmY3A9ZGM4YzFlZTUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=214dfd104bd6210aa31f121d142b35b3
-<<<<<<< HEAD
-=======
-#EXTINF:-1 tvg-name="东森新闻" group-title="新闻",东森新闻
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyaldxQjY1ejR6WjZsak50OFFaZTh2Wm5CalJCbDZQRnxjZD0xOTZiY2MwMCZjbj0xZTBkNTg0YyZjcD05ZGE5MTI4MSZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="中天新闻" group-title="新闻",中天新闻
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyalduQnZVSWU2TmR1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTE5NmJjYzAwJmNuPTFlMGQ1ODRjJmNwPTdjOTIzMmQ0JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="台视新闻" group-title="新闻",台视新闻
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyak5TQjZSSWU2Tm5iNjU2NGpOdDhRWmU4dlpuQmpSQmw2UEZ8Y2Q9MTk2YmNjMDAmY249MWUwZDU4NGMmY3A9ZmVmM2ViOTgmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="非凡新闻" group-title="新闻",非凡新闻
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyald6ZXZVenlWUkllNk5uYjY1NjRqTnQ4UVplOHZabkJqUkJsNlBGfGNkPTE5NmJjYzAwJmNuPTFlMGQ1ODRjJmNwPTJmYWY0MDk5JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="民视新闻" group-title="新闻",民视新闻
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyald6QjZSSWU2YWZCUVVlTlFVaHVwQzJ5eFUyZ3BOXzRWUG5hQW18Y2Q9MTk2YmNjMDAmY249MWUwZDU4NGMmY3A9MGUwNzI5OWMmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="寰宇新闻" group-title="新闻",寰宇新闻
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyald5YVFVSUk2WnlnVmM2ZVZlZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTE5NmJjYzAwJmNuPTFlMGQ1ODRjJmNwPTRiNzYyNTU5JmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="中视新闻" group-title="新闻",中视新闻
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyak5nR1ZXSWNwV3lnVlJxTnBhZkI2V2h1cEMyeXhVMmdwTl80VlBuYUFtfGNkPTE5NmJjYzAwJmNuPTFlMGQ1ODRjJmNwPWRhYzM5ZDViJmN1PTk3MGYwNjlmJnJwPWRQX0JqTGRCakwxbG5paDJuRUY&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="年代新闻" group-title="新闻",年代新闻
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyaldJZ1FVSTlRVWU0elo2bFpOU05WcmZPVkNzSVZDZWw2aUlNZE4waHxjZD0xOTZiY2MwMCZjbj0xZTBkNTg0YyZjcD0yMWE5NTUyYyZjdT05NzBmMDY5ZiZycD1kUF9CakxkQmpMMWxuaWgybkVG&tk=214dfd104bd6210aa31f121d142b35b3
-#EXTINF:-1 tvg-name="三立新闻" group-title="新闻",三立新闻
-https://live.catvod.com/?id=L2xyL2RMUU9ubGQyaldlNHpaNmxaTlNOVnJmT1ZDc0lWQ2VsNmlJTWROMGh8Y2Q9MTk2YmNjMDAmY249MWUwZDU4NGMmY3A9YmViZjY4ZDUmY3U9OTcwZjA2OWYmcnA9ZFBfQmpMZEJqTDFsbmloMm5FRg&tk=214dfd104bd6210aa31f121d142b35b3
->>>>>>> 2c54d05 (手动更新 IPTV 直播源 2026-08-01 12:48:53)
 
 #EXTINF:-1 tvg-name="TVBS新聞" group-title="台湾",TVBS新聞
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1785581166/ei/DnptavyhMOvKsfIPjqnw4QE/ip/2a09:bac5:6249:78::c:3b1/id/m_dhMSvUCIc.7/itag/96/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D137/rqh/1/hls_chunk_host/rr1---sn-iv.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/bui/AZFlqhMM4jrK2FsEfCgNckouz8hHa_PS4y-Sf0LfZDg8bLUaXqY8-LT5d755xoBH-CSoHs1Z_a7YgN3k/spc/KBGBcj-Euq6cltDueDBReAMHCULh7UferrbrB51iJhuj68_kSV7D2guBGcx092ms/vprv/1/reg/0/playlist_type/DVR/initcwndbps/3466250/met/1785559568,/mh/V0/mip/2a09:bac5:6249:183c::26a:6/mm/44/mn/sn-iv/ms/lva/mv/m/mvi/1/pl/42/rms/lva,lva/dover/11/pacing/0/keepalive/yes/fexp/51565115,51946838/mt/1785559001/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,xpc,playlist_duration,manifest_duration,bui,spc,vprv,reg,playlist_type/sig/AE0s2JYwRQIgWyCL3sBhkcsC5X0lQJVLjv2NCk97ubESYuEdaTcf2CgCIQC8bJtacIw-bu8lkcpqO7pmet9Bm6qAAAwir8ZVaCoyWw%3D%3D/lsparams/hls_chunk_host,initcwndbps,met,mh,mip,mm,mn,ms,mv,mvi,pl,rms/lsig/APaTxxMwRQIgOp_r4Uwt60P3B5dE2ntx2PCk0WeE70tRPILRNIYS88QCIQDnPbYV5y95iK51E789VAMLG-CZDsNcWN_iBSkhj3PsKg%3D%3D/playlist/index.m3u8
